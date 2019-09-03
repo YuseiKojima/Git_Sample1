@@ -9,7 +9,4 @@ namespace Git_sample
             Console.WriteLine("Hello World!");
         }
     }
-
-
-
 }
