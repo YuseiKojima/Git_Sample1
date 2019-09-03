@@ -13,6 +13,8 @@ namespace Git_sample
             Console.WriteLine("aaaaaaa");
             Console.WriteLine("hey");
             Console.WriteLine("test");
+            Console.WriteLine("test2");
+
         }
     }
 }
